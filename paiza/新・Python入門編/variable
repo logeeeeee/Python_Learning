@@ -1,0 +1,33 @@
+num = 1
+num += 2
+print(num)
+
+num -= 1
+print(num)
+
+num = 2
+num *= 12
+print(num)
+
+num = 2
+num /= 2
+print(num)
+
+num = 2
+num //= 2
+print(num)
+
+num = 7
+num %= 5
+print(num)
+
+num = 5
+num **= 2
+print(num)
+
+a = "paiza"
+print(a)
+
+a = 813
+print(a)
+
