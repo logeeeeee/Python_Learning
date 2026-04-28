@@ -1,0 +1,2 @@
+# Python_Learning
+Pythonを学んだ記録を残すために作成したリポジトリ
